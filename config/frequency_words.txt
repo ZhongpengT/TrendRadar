@@ -39,15 +39,24 @@ bytedance
 
 特斯拉
 马斯克
+SpaceX
+Grok
 
 凡人修仙传动画
 
-小米汽车
+小米
+雷军
+HyperOS
+澎湃OS
+
 理想汽车
 小鹏汽车
 蔚来
 方程豹
 领克
+何小鹏
+李想
+极氪
 
 F1
 维斯塔潘
@@ -59,12 +68,17 @@ Verstappen
 计算机视觉
 Computer Vision
 Object Detection
+YOLO
+SAM
+VIT
+SWIN
 
 微软
 Microsoft
 
 英伟达
 NVIDIA
+显卡
 黄仁勋
 
 AMD
@@ -101,6 +115,9 @@ ai
 !gai
 !广告
 !培训
+
+ollama
+GLM
 
 自动驾驶
 FSD
