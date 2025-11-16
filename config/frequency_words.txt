@@ -49,6 +49,13 @@ bytedance
 方程豹
 领克
 
+F1
+维斯塔潘
+红牛车队
+Verstappen
+勒克莱尔
+迈凯伦车队
+
 计算机视觉
 Computer Vision
 Object Detection
@@ -61,6 +68,14 @@ NVIDIA
 黄仁勋
 
 AMD
+
+cursor
+trae
+claude
+
+通义千问
+千问
+qwen
 
 谷歌
 google
@@ -82,8 +97,11 @@ ios
 ai
 !gai
 人工智能
+大模型
+多模态
 
 自动驾驶
+FSD
 
 机器人
 
