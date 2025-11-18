@@ -67,6 +67,8 @@ ai
 !培训
 !air
 !aio
+!baidu
+!email
 
 华为
 鸿蒙
@@ -137,9 +139,13 @@ cuda
 AMD
 
 库克
+苹果
 iphone
 mac
 ios
+!水果
+!studios
+!machine
 
 自动驾驶
 FSD
